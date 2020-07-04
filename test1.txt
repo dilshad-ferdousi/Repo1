@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 003E-9E9D
+
+ Directory of E:\Git
+
+08/19/2019  09:43 PM    <DIR>          .
+08/19/2019  09:43 PM    <DIR>          ..
+08/19/2019  09:43 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  116,153,577,472 bytes free
